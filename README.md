@@ -2,4 +2,4 @@
 
 Welcome to this Markdown file.
 
-I work on the [Cheerp compiler](https://github.com/leaningtech/cheerp-compiler), an LLVM fork that conversts C++ programs to JavaScript + WebAssembly.
+I work on [DuckDB](https://github.com/duckdb/duckdb) and related projects
